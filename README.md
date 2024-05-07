@@ -1,6 +1,24 @@
 ### Oii! Eu sou a Yasmin 👋
 
 
+
+<div align="center">
+  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Minzyx&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/laurelzxy)
+ <h3 align ="center"> <strong> Sobre Mim </strong> </h3> 
+ 
+</div>
+
+
+
+ 
+<div align="center">
+<p align="">Atualmente estudo Jogos Digitais no SENAI de São Caetano do Sul.</p>
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/Minzyx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minzyx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
