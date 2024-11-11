@@ -43,7 +43,7 @@
 
 
 <div>
-    <img height="180em" src="[https://i.pinimg.com/originals/dd/aa/81/ddaa813eef9fb1c57a8dfd6142a3d955.gif](https://i.pinimg.com/originals/9a/16/cf/9a16cf53c2b1b7aebbab18279604a269.gif)"/>
+    <img height="180em" src="https://i.pinimg.com/originals/9a/16/cf/9a16cf53c2b1b7aebbab18279604a269.gif"/>
 
 
 
