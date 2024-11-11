@@ -43,9 +43,7 @@
 
 
 <div>
-  
     <img height="180em" src="https://i.pinimg.com/originals/dd/aa/81/ddaa813eef9fb1c57a8dfd6142a3d955.gif"/>
-
 
 
 
