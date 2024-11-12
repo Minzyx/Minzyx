@@ -44,7 +44,6 @@
   <img align="center" height="30" width="40" src="https://cdn.simpleicons.org/unity/FFFFFF"/>
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=ps" height="40"/>
-  <img align="center" height="30" width="40" src="./icons/GCP-Dark.svg" width="48"/>  
 
 # 🌸 Social
 
