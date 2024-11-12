@@ -48,7 +48,7 @@
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=ps" height="40"/>
 
-# 🌸 Social
+# 🏁 Social
 
   <div align= "center"> 
   <a href="https://instagram.com/yasfkc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
