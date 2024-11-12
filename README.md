@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Minzyx&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/laurelzxy)
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
  <h3 align ="center"> <strong> About me ✨ </strong> </h3> 
 
 </div>
