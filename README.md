@@ -39,6 +39,11 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
+  <img align="center" height="30" width="40" src="https://cdn.simpleicons.org/unity/FFFFFF"/>
+  <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
+  <img align="center" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
 
 # 🌸 Social
 
