@@ -43,7 +43,8 @@
   <img align="center" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
   <img align="center" height="30" width="40" src="https://cdn.simpleicons.org/unity/FFFFFF"/>
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
-  <img align="center" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
+  <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=ps" height="40"/>
+  <img align="center" height="30" width="40" src="https://github.com/AwesomeLogos/google-cloud-icons/actions/workflows/update.yaml/badge.svg)](https://github.com/AwesomeLogos/google-cloud-icons/actions/workflows/update.yaml"
 
 # 🌸 Social
 
