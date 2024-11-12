@@ -28,8 +28,8 @@
 <div align="center">
   <a href="https://github.com/Minzyx">
   <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" margin-top="50px" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minzyx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minzyx&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minzyx&show_icons=true&dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minzyx&layout=compact&langs_count=7&dark&hide_border=false"/>
 </div>
 
 
