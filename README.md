@@ -1,4 +1,4 @@
-### Hi! I'm Yasmin 👋
+### Hi! I'm Yasmin, you can call me Minzy 👋
 
 
 
