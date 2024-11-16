@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://github.com/Minzyx">
-  <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" margin-top="50px" />
+  <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" margin-top="70px" />
  <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=Minzyx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
@@ -37,7 +37,7 @@
 
 
 # 💤 Skills
-<p align="left">
+<p align="center">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
