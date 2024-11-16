@@ -20,6 +20,7 @@
 <p align=""> 🎉 17y </p>
 <p align="">🖥️ Learning programming </p>
 <p align=""> "The life is moviment and transformation."</p>
+</div>
 
 
 
