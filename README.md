@@ -36,9 +36,9 @@
 <br>
 </div>
 
-
-# 💤 Skills
 <div align="center">
+# 💤 Skills
+
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -50,6 +50,7 @@
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=ps" height="40"/>
 </div>
 
+  <div align= "center"> 
 # 🏁 Social
 
   <div align= "center"> 
@@ -62,7 +63,7 @@
 
 
 
-<div>
+<div align= "center">
     <img height="180em" src="https://i.pinimg.com/originals/9a/16/cf/9a16cf53c2b1b7aebbab18279604a269.gif"/>
 
 
