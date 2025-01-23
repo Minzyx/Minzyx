@@ -28,7 +28,7 @@
 
 <div align="left">
   <a href="https://github.com/Minzyx">
- <img align= "right" margin-right=40px height=400em src="https://i.pinimg.com/736x/c7/d2/1c/c7d21c947ce48ed1d193488f28e0adb8.jpg">
+ <img align= "right" margin-right=100px height=400em src="https://i.pinimg.com/736x/c7/d2/1c/c7d21c947ce48ed1d193488f28e0adb8.jpg">
 
 ![](https://github-readme-stats.vercel.app/api?username=Minzyx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minzyx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
