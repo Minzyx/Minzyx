@@ -17,7 +17,7 @@
 
  
 <div align="center">
-<p align=""> 🎉 17y </p>
+<p align=""> 🎉 18y </p>
 <p align="">🖥️ Learning programming </p>
 <p align=""> "The life is moviment and transformation."</p>
 </div>
@@ -28,7 +28,7 @@
 
 <div align="left">
   <a href="https://github.com/Minzyx">
- <img align= "right" height=300em src="https://i.pinimg.com/736x/b9/c1/be/b9c1bee095f7474265a6e0447a31e681.jpg">
+ <img align= "right" height=300em src="https://i.pinimg.com/736x/04/fa/c6/04fac6a0e82d63ddc876758182fcd133.jpg">
 
 ![](https://github-readme-stats.vercel.app/api?username=Minzyx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minzyx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
