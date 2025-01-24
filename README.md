@@ -71,4 +71,4 @@
 </div>
 
 
-![Snake animation](https://github.com/Minzyx/Minzyx/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
