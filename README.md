@@ -18,7 +18,7 @@
  
 <div align="center">
 <p align=""> 🎉 18y </p>
-<p align="">🖥️ Learning programming </p>
+<p align="">🖥️ Game Developer </p>
 <p align=""> "The life is moviment and transformation."</p>
 </div>
 
