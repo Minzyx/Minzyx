@@ -55,7 +55,7 @@
   <div align= "center"> 
   <a href="https://instagram.com/yasmrqz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:minzybtw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:minzybtw@gmail.com"><img src="https://i.pinimg.com/originals/e0/a0/ca/e0a0ca25b7b912adc854aa2a9a5c3c7a.gif"></a>
 </div>
 
 
